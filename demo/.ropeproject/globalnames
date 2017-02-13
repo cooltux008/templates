@@ -1,0 +1,5 @@
+€}q(U	app.tests]U	app.admin]q(UChoiceInlineqUpollsqUQuestionAdminqeU
+app.models]q(UQuestionqUChoiceqUArticleq	eUapp]Umanage]Ublog.settings]q
+(U	TEMPLATESqUUSE_L10NqULANGUAGE_CODEqUUSE_TZqUUSE_I18NqU	DATABASESqU	TIME_ZONEqU
+STATIC_URLqUROOT_URLCONFqUWSGI_APPLICATIONqUMIDDLEWARE_CLASSESqUDEBUGqUALLOWED_HOSTSqU
+SECRET_KEYqUBASE_DIRqUINSTALLED_APPSqeU	blog.urls]qUurlpatternsqaU	app.views]q(UindexqUhelloqeUapp.migrations.0001_initial]q U	Migrationq!aUblog]Uapp.migrations]U	blog.wsgi]q"Uapplicationq#au.
