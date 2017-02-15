@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% block body %}
+<div class="container">
+
+	<h2>Login</h2>
+	<br/>
+	<form action="" method="post">
+		<input type="text" placeholder="Username" value="{{request.form.username}}" required autofocus/>
+		<input type="password" placeholder="Password" value="{{request.form.password}}" required autofocus/>
+		<input class="btn btn-default" type="submit" value="login"/>
+	</form>
+	{% if error %}
+	<p class="error"><strong>Error:</strong>{{error}}</p>
+	{% endif %}
+
+</div> <!-- /container -->
+
+{% endblock %}
